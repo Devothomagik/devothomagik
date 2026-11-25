@@ -6,6 +6,6 @@ I mostly work with React, TypeScript, Node, Python, Supabase, PostgreSQL, Docker
 
 Certifications: EC-Council CCT and CHC, plus the Google Cybersecurity Professional Certificate. I'm also studying for a B.Sc. in Computer Science at University of the People.
 
-What I'm up to lately: [TenantProbe](https://github.com/devothomagik/tenantprobe), a small open-source tool that passively checks a domain's Microsoft 365 / Entra ID and email-authentication setup using only public DNS and endpoints.
+What I'm up to lately: [tenant-check](https://github.com/Devothomagik/tenant-check), a small open-source tool that passively checks a domain's Microsoft 365 / Entra ID and email-authentication setup using only public DNS and endpoints.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/othmane-nejjai).
